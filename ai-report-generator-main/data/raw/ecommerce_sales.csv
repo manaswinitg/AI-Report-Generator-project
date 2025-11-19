@@ -1,0 +1,5 @@
+order_date,product,category,region,sales,profit
+2024-01-03,Laptop,Tech,North,1200,200
+2024-01-05,Phone,Tech,South,800,120
+2024-01-08,Headphones,Audio,East,200,30
+2024-01-10,Tablet,Tech,West,600,90
